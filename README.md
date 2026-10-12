@@ -30,7 +30,7 @@ No build step or package installation is required.
 
 ## Market Data
 
-The calculator requests public ticker prices from Binance:
+The calculator use public Real-time Price from Binance:
 
 - Binance Futures API
 - Binance Spot API as a fallback
