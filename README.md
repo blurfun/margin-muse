@@ -14,7 +14,7 @@ It is designed for quick trade planning without connecting to a trading account 
 - Long and short position calculations
 - Entry price, margin, leverage, and position size inputs
 - Side-by-side Scenario A and Scenario B comparison
-- Risk/reward calculation
+- Risk-Reward Ratio
 - Three-batch scale-out selling planner
 - Automatic price updates when the step size changes
 - Responsive layout for desktop and mobile screens
