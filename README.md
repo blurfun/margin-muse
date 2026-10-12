@@ -6,7 +6,7 @@ It is designed for quick trade planning without connecting to a trading account 
 
 ## Preview
 
-![Margin Muse preview](./screenshot.png)
+![Margin Muse preview](./futures.png)
 
 ## Features
 
