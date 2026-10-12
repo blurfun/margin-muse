@@ -24,14 +24,6 @@ No build step or package installation is required.
 2. Open `margin-muse.html` in a browser.
 3. Enter your trade parameters and review the calculated results.
 
-For local development, you can also serve the folder with any static web server:
-
-```bash
-python3 -m http.server 8000
-```
-
-Then open [http://localhost:8000/margin-muse.html](http://localhost:8000/margin-muse.html).
-
 ## Market Data
 
 The calculator requests public ticker prices from Binance:
@@ -41,13 +33,6 @@ The calculator requests public ticker prices from Binance:
 
 Only public market prices are requested. The application does not access account balances, positions, orders, or private user data.
 
-## Files
-
-| File | Description |
-| --- | --- |
-| `margin-muse.html` | English version of the calculator with the background SVG embedded directly in the page |
-| `index.html` | Original Chinese version |
-| `vecteezy_wood-texture-abstract-background-vector-illustration_23651611.svg` | Original background asset |
 
 ## Disclaimer
 
