@@ -4,6 +4,9 @@
 
 It is designed for quick trade planning without connecting to a trading account or placing orders.
 
+**Live demo:** [Open Margin Muse](https://blurfun.github.io/margin-muse/margin-muse.html)
+
+
 ## Preview
 
 ![Margin Muse preview](./futures-2.png)
