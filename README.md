@@ -4,6 +4,10 @@
 
 It is designed for quick trade planning without connecting to a trading account or placing orders.
 
+## Preview
+
+![Margin Muse preview](./screenshot.png)
+
 ## Features
 
 - Live BTC, ETH, and SOL price lookup
