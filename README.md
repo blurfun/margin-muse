@@ -38,7 +38,5 @@ Only public market prices are requested. The application does not access account
 
 This tool is for calculation and educational purposes only. It does not provide financial advice, guarantee results, or execute trades. Always verify prices, fees, funding rates, and liquidation conditions before making a trading decision.
 
-## License
 
-No license has been specified yet. Add a license file before redistributing the project publicly.
 
